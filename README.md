@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-Stock-Market-Analyzer
 AI-powered stock market analyzer
 =======
@@ -119,4 +119,4 @@ It does not constitute financial advice.
 
 **Chaitanya Pushkarna**  
 AI / ML Engineer | Quantitative Analysis | Applied LLM Systems
->>>>>>> ea2a0d8 (Add .gitignore and initial project files)
+
